@@ -12,6 +12,10 @@ public class Car {
     public void changeName() {
         name = "Tesla";
     }
+    
+    public void getManufacturerName() {
+        manufacturerName = "Ford";
+    }
 }
 ```
 
